@@ -1,8 +1,10 @@
 function onLoad(callback) {
   var tid = setInterval(function () {
-    if (document.readyState !== 'complete') return;
-    clearInterval(tid);
-    return callback();
+    if (document.readyState === 'interactive' || document.readyState === 'complete') {
+      clearInterval(tid);
+      return callback();  
+    }
+    
   }, 100);
 }
 
@@ -34,8 +36,8 @@ class DomChanger {
    * @param {string} selector - The selector of the element to remove.
    */
   removeElement(selector) {
-    const element = document.querySelector(selector);
-    if (element) {
+    const elements = document.querySelectorAll(selector);
+    for (const element of elements) {
       element.remove();
     }
   }
@@ -61,7 +63,9 @@ class DomChanger {
       for (const sevivorElement of sevivorElements) {
         baseEelement.appendChild(sevivorElement);
       }
-      baseEelement = sevivorElements[0];
+      if (sevivorElements.length > 0) {
+        baseEelement = sevivorElements[0];
+      }
     }
   }
 
@@ -70,11 +74,24 @@ class DomChanger {
    * @param {string} selector
    * @param {object} style - An object containing CSS properties and values.
    */
-  updateElementStyle(selector, style) {
+  updateElementStyle(selector, styleObject) {
+    // update the style of the element
     const element = document.querySelector(selector);
-    console.log('updateElementStyle', element, style);
     if (element) {
-      Object.assign(element.style, style);
+      console.log(selector, 'before: ', element.style[Object.keys(styleObject)[0]])
+      Object.assign(element.style, styleObject);
+      console.log(selector, 'after: ', element.style[Object.keys(styleObject)[0]])
     }
+
+    // update the style tag
+    let styleTag = document.querySelector('style');
+    if (!styleTag) {
+        styleTag = document.createElement('style');
+        document.head.appendChild(styleTag);
+    }
+    const styleString = Object.entries(styleObject)
+        .map(([key, value]) => `${key}: ${value};`)
+        .join(' ');
+    styleTag.appendChild(document.createTextNode(`${selector} { ${styleString} }`));
   }
 }

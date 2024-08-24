@@ -1,4 +1,4 @@
-console.log('coupang.js script loaded');
+console.log('js script loaded');
 
 onLoad(function () {
   console.log('onLoaded');
@@ -14,9 +14,7 @@ onLoad(function () {
   ];
 
   domChanger.updateElementStyles = [
-    ["#header", {
-      height: "1007px"
-    }]
+    ["#header", { height: "1007px" }]
   ]
 
   domChanger.run();
