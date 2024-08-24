@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "DOM Cleaner Extension",
+  "version": "1.0",
+  "description": "Remove specific tags and keep the desired structure on page load.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.coupang.com/"],
+      "js": ["dom-changer.js", "coupang.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
