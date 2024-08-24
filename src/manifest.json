@@ -12,7 +12,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://www.coupang.com/"],
+      "matches": ["https://www.coupang.com/", "https://www.coupang.com/?*"],
       "js": ["dom-changer.js", "coupang/main-page.js"],
       "run_at": "document_idle"
     },
