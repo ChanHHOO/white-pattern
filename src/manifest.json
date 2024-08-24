@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "DOM Cleaner Extension",
+  "name": "commerce-white-pattern",
   "version": "1.0",
-  "description": "Remove specific tags and keep the desired structure on page load.",
+  "description": "Use an LLM to identify and modify bad patterns on commerce websites",
   "permissions": [
     "activeTab",
     "scripting"
