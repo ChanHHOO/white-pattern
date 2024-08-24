@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "commerce-white-pattern",
+  "version": "1.0",
+  "description": "Use an LLM to identify and modify bad patterns on commerce websites",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.coupang.com/", "https://www.coupang.com/?*"],
+      "js": ["coupang/mock-tags.js", "dom-changer.js", "coupang/main-page.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.coupang.com/np/search*"],
+      "js": ["coupang/mock-tags.js", "dom-changer.js", "coupang/search-page.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.coupang.com/vp/products/*"],
+      "js": ["coupang/mock-tags.js", "dom-changer.js", "coupang/product-page.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
