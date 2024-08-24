@@ -1,25 +1,30 @@
-function onLoad(callback) {
+import {MOCK_MAIN, MOCK_PRODUCT, MOCK_SEARCH} from "./mock-tags"
+export const config = {
+  matches: ["https://*.coupang.com/*"]
+}
+
+export function onLoad(callback) {
   var tid = setInterval(function () {
     if (document.readyState === 'loading' || document.readyState === 'interactive' || document.readyState === 'complete') {
       clearInterval(tid);
-      return callback();  
+      return callback();
     }
-    
+
   }, 100);
 }
 
-const SITE = {
+export const SITE = {
   COUPANG: 'coupang',
   TEMU: 'temu',
 }
 
-const PAGE = {
+export const PAGE = {
   MAIN: 'main',
   SEARCH: 'search',
   PRODUCT: 'product',
 }
 
-class DomChanger {
+export class DomChanger {
   constructor(site) {
     if (site !== SITE.COUPANG && site !== SITE.TEMU) {
       throw new Error('Invalid site');
@@ -40,14 +45,14 @@ class DomChanger {
         this.updateElements = MOCK_PRODUCT
       }
     } else if (this.site === SITE.TEMU) {
-      
+
     }
   }
 
   run(page) {
     console.log('DomChanger.run()');
     this.getChangeTags(page);
-    
+
     const HOUR = 60 * 60 * 1000;
     setInterval(() => {
       this.getChangeTags(page);
