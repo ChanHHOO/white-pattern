@@ -1,15 +1,36 @@
-import { onLoad } from "./dom-changer"
-import { DomChanger, SITE, PAGE } from "./dom-changer"
+import { Storage } from "@plasmohq/storage"
 
-console.log('js script loaded');
+import { DomChanger, onLoad, PAGE, SITE } from "./dom-changer"
+
+console.log("js script loaded")
 
 export const config = {
   matches: ["https://www.coupang.com/", "https://www.coupang.com/?*"]
 }
 
-onLoad(function () {
-  console.log('onLoaded');
+// onLoad(function () {
+//   console.log("onLoaded")
 
-  var domChanger = new DomChanger(SITE.COUPANG);
-  domChanger.run(PAGE.MAIN);
-});
+//   var domChanger = new DomChanger(SITE.COUPANG)
+//   domChanger.run(PAGE.MAIN)
+// })
+
+const storage = new Storage()
+
+storage.get("focus").then((r) => {
+  if (r === true) {
+    var domChanger = new DomChanger(SITE.COUPANG)
+    domChanger.run(PAGE.MAIN)
+  }
+})
+
+storage.watch({
+  focus: (v) => {
+    if (v.newValue === true) {
+      var domChanger = new DomChanger(SITE.COUPANG)
+      domChanger.run(PAGE.MAIN)
+    } else {
+      window.location.reload()
+    }
+  }
+})
