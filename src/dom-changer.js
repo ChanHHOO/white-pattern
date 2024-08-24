@@ -1,6 +1,6 @@
 function onLoad(callback) {
   var tid = setInterval(function () {
-    if (document.readyState === 'interactive' || document.readyState === 'complete') {
+    if (document.readyState === 'loading' || document.readyState === 'interactive' || document.readyState === 'complete') {
       clearInterval(tid);
       return callback();  
     }
@@ -16,6 +16,7 @@ class DomChanger {
   }
 
   run() {
+    console.log('DomChanger.run()');
     if (this.preserveStructurePath.length > 0) {
       this.preserveSpecificStructure(this.preserveStructurePath);
     }
@@ -48,15 +49,20 @@ class DomChanger {
    * @param {string[]} structure - The hierarchy of IDs to preserve.
    */
   preserveSpecificStructure(path) {
-    var baseEelement = document.body;
-    for (const selectorElements of path) {
-      var sevivorElements = [];
-      for (const selector of selectorElements) {
-        const elements = baseEelement.querySelectorAll(selector);
-        if (elements.length > 0) {
-          sevivorElements.push(...elements);
+    let baseEelement = document.body;
+    for (const selectorElement of path) {
+      const sevivorElements = [];
+      
+      if (typeof selectorElement === 'string') {
+        sevivorElements.push(...baseEelement.querySelectorAll(selectorElement));
+      }
+      if (selectorElement instanceof Array) {
+        for (const selector of selectorElement) {
+          sevivorElements.push(...baseEelement.querySelectorAll(selector));
         }
       }
+
+      console.log('sevivorElements: ', sevivorElements)
       while (baseEelement.firstChild) {
         baseEelement.removeChild(baseEelement.firstChild);
       }
@@ -78,9 +84,7 @@ class DomChanger {
     // update the style of the element
     const element = document.querySelector(selector);
     if (element) {
-      console.log(selector, 'before: ', element.style[Object.keys(styleObject)[0]])
       Object.assign(element.style, styleObject);
-      console.log(selector, 'after: ', element.style[Object.keys(styleObject)[0]])
     }
 
     // update the style tag
