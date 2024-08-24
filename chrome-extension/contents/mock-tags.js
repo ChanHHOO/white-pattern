@@ -1,13 +1,16 @@
+export const config = {
+  matches: ["https://*.coupang.com/*"]
+}
 
-const commonPages = [
+export const commonPages = [
   ["#todaysHot", { display: "none !important;" }],
   [".top-bar", { display: "none !important;" }],
   ["div.gnb-menu-container", { display: "none !important;" }],
   ["div.category-btn", { display: "none !important;" }],
   ["#coupang-banner", { display: "none !important;" }],
-  ["#footer", { display: "none !important;" }],  
+  ["#footer", { display: "none !important;" }],
 ]
-const commonContensts = [
+export const commonContensts = [
   ["#sdp-mid-banner-btf", { display: "none !important;" }],
   ["#promotionCarousel", { display: "none !important;" }],
   ["#welcomebackNudage", { display: "none !important;" }],
@@ -30,20 +33,21 @@ const commonContensts = [
   ["#srp-bottom-carousel-dco-contaner", { display: "none !important;" }],
   ["#srpKeywordProductTopBanner", { display: "none !important;" }],
   [".sdw-aging", { display: "none !important;" }],
+  [".product-sticky-banner-clickable__show-area__long-image__item", { display: "none !important;" }]
 ]
 
-const MOCK_MAIN = [
+export const MOCK_MAIN = [
   ...commonPages,
   ["#header", { height: "1007px" }],
   ["#contents", { display: "none !important;" }],
 ]
 
-const MOCK_SEARCH = [
+export const MOCK_SEARCH = [
   ...commonPages,
   ...commonContensts,
 ]
 
-const MOCK_PRODUCT = [
+export const MOCK_PRODUCT = [
   ...commonPages,
   ...commonContensts,
 ]
