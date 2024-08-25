@@ -24,9 +24,12 @@ We designed this service to provide users with only the necessary information, h
 ---
 
 ## 🎯 How It Works
-
-재성님
-
+- Static content blocking based on element selectors
+- Dynamic element update with GPT-4o
+- Steps for Analysis:
+  1.  Extract content element.
+  2.  Preprocess the extracted content. Removes unnecessary data attributes.
+  3.  Instruct LLM to detect Dark Patterns and generate selectors and styles to fix Dark Patterns.
 ---
 
 ## 🛠️ Tech Stack
@@ -45,16 +48,34 @@ We designed this service to provide users with only the necessary information, h
 ### Prerequisites
 
 ```bash
-재성님
+cd chrome-extension
+npm install
+```
 
+```bash
+cd server
+pip install -r requirements.txt
 ```
 
 ## Test Instruction
 
-**Step 1**
-
+**Step 1** - Run chrome extension
 ```bash
-gcloud auth login
+cd chrome-extension
+npm dev
 ```
 
-**Step 2**
+**Step 2** - Run python server
+```bash
+cd server
+python main.py
+```
+
+**Step 3** - Install chrome extension
+1. Open Chrome
+2. Go to `chrome://extensions/`
+3. Enable `Developer mode`
+4. Click `Load unpacked`
+5. Select `chrome-extension/build/chrome-mv3-dev` folder
+
+**Step 4** - Open `https://www.coupang.com/` and click the extension icon
