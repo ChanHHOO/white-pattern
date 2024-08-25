@@ -61,7 +61,7 @@ importers:
         specifier: ^10.4.20
         version: 10.4.20(postcss@8.4.41)
       postcss:
-        specifier: ^8.4.41
+        specifier: ^8.1.0
         version: 8.4.41
       prettier:
         specifier: 3.2.4
