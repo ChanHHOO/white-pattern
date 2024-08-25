@@ -11,15 +11,19 @@
   },
   "dependencies": {
     "@plasmohq/storage": "^1.11.0",
+    "@tailwindcss/typography": "^0.5.14",
     "@use-gesture/react": "^10.3.1",
     "buffer": "^6.0.3",
     "cheerio": "^1.0.0",
     "events": "^3.3.0",
     "jquery": "^3.7.1",
+    "marked": "^14.0.0",
     "plasmo": "0.88.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-markdown": "^9.0.1",
     "react-spring": "^9.7.4",
+    "remark-gfm": "^4.0.0",
     "stream": "^0.0.3"
   },
   "devDependencies": {
