@@ -1,0 +1,1406 @@
+<div class="sdp-review__article__list__hidden-rating">
+  <div class="js_reviewArticleHiddenValue" data-count="17875"></div>
+
+  <div class="js_reviewArticleHiddenValue" data-count="1188"></div>
+
+  <div class="js_reviewArticleHiddenValue" data-count="245"></div>
+
+  <div class="js_reviewArticleHiddenValue" data-count="101"></div>
+
+  <div class="js_reviewArticleHiddenValue" data-count="152"></div>
+</div>
+
+<div
+  class="sdp-review__article__list__hidden-rating js_reviewArticleTotalCountHiddenValue"
+  data-review-total-count="19561"
+  data-total-count="19561"
+></div>
+
+<article class="sdp-review__article__list js_reviewArticleReviewList">
+  <div class="sdp-review__article__list__info">
+    <div class="sdp-review__article__list__info__profile">
+      <img
+        class="js_reviewArticleCrop js_reviewUserProfileImage"
+        src="//thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202302/9/1446056848893746823/e64c4ecf-06a9-48ba-bde2-800ce2c7d010.jpg"
+        data-member-id="6610685"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__info__user">
+      <span
+        class="sdp-review__article__list__info__user__name js_reviewUserProfileImage"
+        data-member-id="6610685"
+        >박*영&nbsp;</span
+      >
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info">
+      <div class="sdp-review__article__list__info__product-info__star-gray">
+        <div
+          class="sdp-review__article__list__info__product-info__star-orange js_reviewArticleRatingValue"
+          data-rating="5"
+        ></div>
+      </div>
+      <div class="sdp-review__article__list__info__product-info__reg-date">
+        2024.08.21
+      </div>
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__seller_name">
+      판매자: 쿠팡(주)
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__name">
+      하늘보리 에코, 1.5L, 12개
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__attachment js_reviewArticleListGalleryContainer"
+  >
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        data-has-caption="true"
+        data-caption="하늘보리 에코"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/3708afe0-57ef-4e0a-b2fc-bdf07f65d41b.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/3708afe0-57ef-4e0a-b2fc-bdf07f65d41b.jpg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/3708afe0-57ef-4e0a-b2fc-bdf07f65d41b.jpg"
+        data-num="0"
+      />
+
+      <span class="sdp-review__caption_tip"></span>
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        data-has-caption="true"
+        data-caption="텀블러에 따라 시원하게 마시면 굿!"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/2636ff5f-2294-4585-ab8a-c8ff4d81bf5f.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/2636ff5f-2294-4585-ab8a-c8ff4d81bf5f.jpg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/2636ff5f-2294-4585-ab8a-c8ff4d81bf5f.jpg"
+        data-num="1"
+      />
+
+      <span class="sdp-review__caption_tip"></span>
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        data-has-caption="true"
+        data-caption="한 병에 1.5L "
+        src="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/95ec687a-3d12-4097-9d36-26d830d89fb2.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/95ec687a-3d12-4097-9d36-26d830d89fb2.jpg"
+        data-origin-path="https://thumbnail9.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/95ec687a-3d12-4097-9d36-26d830d89fb2.jpg"
+        data-num="2"
+      />
+
+      <span class="sdp-review__caption_tip"></span>
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        data-has-caption="true"
+        data-caption="한박스에 12병"
+        src="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/c22f9618-43d1-4119-87b0-32d24350d4c3.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/c22f9618-43d1-4119-87b0-32d24350d4c3.jpg"
+        data-origin-path="https://thumbnail6.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/c22f9618-43d1-4119-87b0-32d24350d4c3.jpg"
+        data-num="3"
+      />
+
+      <span class="sdp-review__caption_tip"></span>
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        data-has-caption="true"
+        data-caption="고소하고 맛있어요!"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/b4e95a28-69d0-4368-bd4b-d38130bd12c0.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/b4e95a28-69d0-4368-bd4b-d38130bd12c0.jpg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/b4e95a28-69d0-4368-bd4b-d38130bd12c0.jpg"
+        data-num="4"
+      />
+
+      <span class="sdp-review__caption_tip"></span>
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/b5baa429-0907-4074-9900-c11a2b18ffe9.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/b5baa429-0907-4074-9900-c11a2b18ffe9.jpg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/b5baa429-0907-4074-9900-c11a2b18ffe9.jpg"
+        data-num="5"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/e5993e9e-60f4-4fbe-9723-f95d78b575b1.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/e5993e9e-60f4-4fbe-9723-f95d78b575b1.jpg"
+        data-origin-path="https://thumbnail9.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/e5993e9e-60f4-4fbe-9723-f95d78b575b1.jpg"
+        data-num="6"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/be916c23-1ae2-4f47-9b38-3908af63df33.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/be916c23-1ae2-4f47-9b38-3908af63df33.jpg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/be916c23-1ae2-4f47-9b38-3908af63df33.jpg"
+        data-num="7"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/4cc6b798-2a55-4d4e-83c1-adc801a1e105.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/4cc6b798-2a55-4d4e-83c1-adc801a1e105.jpg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/4cc6b798-2a55-4d4e-83c1-adc801a1e105.jpg"
+        data-num="8"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/0e064332-7500-43ff-8ad5-56ca407d76c9.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/1446056848893746823/0e064332-7500-43ff-8ad5-56ca407d76c9.jpg"
+        data-origin-path="https://thumbnail9.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/1446056848893746823/0e064332-7500-43ff-8ad5-56ca407d76c9.jpg"
+        data-num="9"
+      />
+    </div>
+  </div>
+
+  <div class="sdp-review__article__list__headline">
+    고소하니 너무 맛있어서 자주 마시게 되서 좋아요!
+  </div>
+
+  <div
+    class="sdp-review__article__list__review js_reviewArticleContentContainer"
+  >
+    <div
+      class="sdp-review__article__list__review__content js_reviewArticleContent"
+    >
+      - 하늘보리 에코<br />
+      - 용량 : 1.5L × 12병.<br />
+      - 유통기한 : 2025년 01월 25일 까지.<br />
+      <br />
+      --------------------------------------------------------------------------------------------------------------------<br />
+      <br />
+      ● 저는 맹물을 잘 못 마시는데요.<br />
+      그래서 옥수수수염차나 보리차를 항상 떨어지지 않게 구비해두고 마시고
+      있답니다.<br />
+      그래서 이번에는 하늘보리 에코로 한 박스 주문했구요.<br />
+      한 박스에 1.5L짜리가 12병 들어 있어서 넉넉한 양이기 때문에 한 박스만
+      구매해봐도 꽤 오랜기단 마실 수 있답니다.<br />
+      <br />
+      <br />
+      ● 올 해는 유난히 습하고 더워서 그런지<br />
+      물을 엄청 많이 먹게 되는데요.<br />
+      아주 저렴한 가격에 하늘보리 에코를ㄹ 구매 할 수 있게 되서 <br />
+      good!<br />
+      이 보리차는 무라벨 제품이라서 다 마시고 난 후에도<br />
+      레벨 분리 없이 바로 페트 분리수거함에 바로 넣을 수 있어서<br />
+      편하네요!<br />
+      라벨 하나 없는 것이 별거 안니데도.<br />
+      분리수거 단계 하나가 줄어드니 매우 좋습니다!<br />
+      <br />
+      <br />
+      ● 가스렌지에 불을 올리지 않아도<br />
+      간편하게 보리치를 즐길 수 있어서 참 다행이예요!<br />
+      이 더운 여름에 보리차 한 번만 끓여도 집 온도가 항 번 올라가면 내려 갈
+      생각을 안하거든요!<br />
+      또, 당연 하늘보리차가 고소해서 자꾸 손이 간답니다.<br />
+      저는 식수대용으로 마시고 있어서<br />
+      이렇게 핫딜로 저렴하게 나올때면 고민없이 <br />
+      무조건 한 박스 구매!~~~<br />
+      <br />
+      고소해서 맛있느니 하늘보리 에코~<br />
+      앞으로도 쭉~ 재구매 할께요!<br />
+      <br />
+      <br />
+      ---------------------------------------------------------------------------------------------------------------------<br />
+      제가 작성한 &quot; 하늘보리 에코 &quot; 후기가 조금이나마 도움이 되시기를
+      바라면서 &lt;&lt; 도움이 돼요 &gt;&gt; 꾸~욱 눌러주시면 감사합니다.
+    </div>
+  </div>
+
+  <div class="sdp-review__article__list__survey">
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question"
+        >맛 만족도</span
+      >
+      <span class="sdp-review__article__list__survey__row__answer"
+        >맛있어요</span
+      >
+    </div>
+
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question">맛</span>
+      <span class="sdp-review__article__list__survey__row__answer"
+        >고소한 편이에요</span
+      >
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__help js_reviewArticleHelpfulContainer"
+    data-review-id="626654520"
+    data-count="0"
+  >
+    <div class="hidden">
+      <strong><span class="js_reviewArticleHelpfulCount">0</span></strong
+      >명에게 도움 됨
+    </div>
+    <div class="sdp-review__article__list__help__count js__help__count__tip">
+      이 상품평이 도움 되었나요?
+    </div>
+
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleHelpBtn"
+    >
+      도움이 돼요
+    </button>
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleNoHelpBtn"
+    >
+      도움 안 돼요
+    </button>
+
+    <button
+      class="sdp-review__article__list__help__report-btn js_reviewArticleReviewReportBtn"
+      data-review-id="626654520"
+    >
+      신고하기
+    </button>
+
+    <div class="sdp-review__clear"></div>
+  </div>
+</article>
+
+<article class="sdp-review__article__list js_reviewArticleReviewList">
+  <div class="sdp-review__article__list__info">
+    <div class="sdp-review__article__list__info__profile">
+      <img
+        class="js_reviewArticleCrop js_reviewUserProfileImage"
+        src="//img1a.coupangcdn.com/image/productreview/web/pdp/profile/img-profile-empty.png"
+        data-member-id="115703822"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__info__user">
+      <span
+        class="sdp-review__article__list__info__user__name js_reviewUserProfileImage"
+        data-member-id="115703822"
+        >곧여름&nbsp;</span
+      >
+
+      <img
+        class="sdp-review__article__list__info__top-badge js_reviewArticleTopReviewBtn"
+        src="//img1a.coupangcdn.com/image/productreview/web/pdp/badges/TOP500_v1.png"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info">
+      <div class="sdp-review__article__list__info__product-info__star-gray">
+        <div
+          class="sdp-review__article__list__info__product-info__star-orange js_reviewArticleRatingValue"
+          data-rating="5"
+        ></div>
+      </div>
+      <div class="sdp-review__article__list__info__product-info__reg-date">
+        2024.08.21
+      </div>
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__seller_name">
+      판매자: 쿠팡(주)
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__name">
+      하늘보리 에코, 1.5L, 12개
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__attachment js_reviewArticleListGalleryContainer"
+  >
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/cc5f6d85-1857-437a-82a4-ecadfef98ceb.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/cc5f6d85-1857-437a-82a4-ecadfef98ceb.jpg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/cc5f6d85-1857-437a-82a4-ecadfef98ceb.jpg"
+        data-num="0"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/fdce1061-3e74-4e8a-93ac-638ef349b1f7.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/fdce1061-3e74-4e8a-93ac-638ef349b1f7.jpg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/fdce1061-3e74-4e8a-93ac-638ef349b1f7.jpg"
+        data-num="1"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/6895bb39-1716-4ee4-abae-2d6ef326e72e.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/6895bb39-1716-4ee4-abae-2d6ef326e72e.jpg"
+        data-origin-path="https://thumbnail6.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/6895bb39-1716-4ee4-abae-2d6ef326e72e.jpg"
+        data-num="2"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/51cf8401-eebb-411d-91d1-79368c6134ef.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/51cf8401-eebb-411d-91d1-79368c6134ef.jpg"
+        data-origin-path="https://thumbnail6.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/51cf8401-eebb-411d-91d1-79368c6134ef.jpg"
+        data-num="3"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/af1f9d1c-0717-41e7-bd14-7479b49588aa.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/af1f9d1c-0717-41e7-bd14-7479b49588aa.jpg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/af1f9d1c-0717-41e7-bd14-7479b49588aa.jpg"
+        data-num="4"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/ac915735-fc73-4b63-876f-81d70a0df577.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/ac915735-fc73-4b63-876f-81d70a0df577.jpg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/ac915735-fc73-4b63-876f-81d70a0df577.jpg"
+        data-num="5"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/d27f1f07-94b2-4c80-800f-6f8bb47b3bbf.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/d27f1f07-94b2-4c80-800f-6f8bb47b3bbf.jpg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/d27f1f07-94b2-4c80-800f-6f8bb47b3bbf.jpg"
+        data-num="6"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/78227777-f93a-45f4-bb14-af608cd5e7e9.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/78227777-f93a-45f4-bb14-af608cd5e7e9.jpg"
+        data-origin-path="https://thumbnail6.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/78227777-f93a-45f4-bb14-af608cd5e7e9.jpg"
+        data-num="7"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/8a4a7531-1b36-4b5d-aeb8-ca16b837656a.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/8a4a7531-1b36-4b5d-aeb8-ca16b837656a.jpg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/8a4a7531-1b36-4b5d-aeb8-ca16b837656a.jpg"
+        data-num="8"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/9c1cfe0e-1e31-4111-8b9a-9836a7754fb0.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/21/6348431205381425969/9c1cfe0e-1e31-4111-8b9a-9836a7754fb0.jpg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/21/6348431205381425969/9c1cfe0e-1e31-4111-8b9a-9836a7754fb0.jpg"
+        data-num="9"
+      />
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__review js_reviewArticleContentContainer"
+  >
+    <div
+      class="sdp-review__article__list__review__content js_reviewArticleContent"
+    >
+      생수만큼이나, 생수보다도 더 많이 주문해서 먹고 있는 하늘보리 에코~ 이번에
+      골드박스에 떠 있길래 얼른 주문했어요. 어차피 먹을 거 다량 구매하고 싶기도
+      했으나 배송 기사님께 미안한 마음도 들고, 집에 쟁여둘 곳도 마땅치 않아 한
+      박스만 주문을 했네요. 1.5L 짜리 12개라 오래오래 먹을 것 같지만, 아이가
+      워낙 하늘보리를 좋아해서 금방 바닥 나더라고요.<br />
+      <br />
+      여름엔 물이 최고에요. 갈증도 해소하고 땀이 많이 나는만큼 수분 보충도
+      충분히 해줘야만 합니다. 생수는 비릿한 맛이 나서 먹기 싫어하는 아이라
+      고민을 하다가 하늘보리와 옥수수 수염차를 구매하기 시작했는데, 옥수수
+      수염차는 너무 많이 먹게 되면 오히려 신장이 나빠질 수 있다고 하여,
+      하늘보리를 더 많이 주문하게 되었어요.<br />
+      <br />
+      구수한 하늘보리는 차게 해서 먹어도 맛있고, 따뜻하게 해서 먹어도 맛있어요.
+      여름엔 냉장고에 넣어 두고 먹고 겨울엔 전자레인지에 살짝 돌려서 먹어요.
+      <br />
+      <br />
+      소비기한이 넉넉하고, 무라벨 페트라서 좋습니다. 분리수거를 할 때 라벨을
+      하나하나 제거해야 하는데 그런 수고를 덜 수 있습니다. 또한 내용물이 훤히
+      보이니 안심하고 먹을 수 있고요. 지난 번에 올 땐 제품 박스가 약간 훼손되어
+      왔었는데, 이번엔 제품 박스도 무탈히 왔습니다. 언제 먹어도 맛있고, 쿠팡을
+      통해 구매를 하게 되면 합리적인 가격에 집 앞까지 배송 받을 수 있어 매번
+      만족스럽게 먹고 있어요. 하늘보리 에코 추천합니다.
+    </div>
+  </div>
+
+  <div class="sdp-review__article__list__survey">
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question"
+        >맛 만족도</span
+      >
+      <span class="sdp-review__article__list__survey__row__answer"
+        >맛있어요</span
+      >
+    </div>
+
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question">맛</span>
+      <span class="sdp-review__article__list__survey__row__answer"
+        >고소한 편이에요</span
+      >
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__help js_reviewArticleHelpfulContainer"
+    data-review-id="626409502"
+    data-count="0"
+  >
+    <div class="hidden">
+      <strong><span class="js_reviewArticleHelpfulCount">0</span></strong
+      >명에게 도움 됨
+    </div>
+    <div class="sdp-review__article__list__help__count js__help__count__tip">
+      이 상품평이 도움 되었나요?
+    </div>
+
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleHelpBtn"
+    >
+      도움이 돼요
+    </button>
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleNoHelpBtn"
+    >
+      도움 안 돼요
+    </button>
+
+    <button
+      class="sdp-review__article__list__help__report-btn js_reviewArticleReviewReportBtn"
+      data-review-id="626409502"
+    >
+      신고하기
+    </button>
+
+    <div class="sdp-review__clear"></div>
+  </div>
+</article>
+
+<article class="sdp-review__article__list js_reviewArticleReviewList">
+  <div class="sdp-review__article__list__info">
+    <div class="sdp-review__article__list__info__profile">
+      <img
+        class="js_reviewArticleCrop js_reviewUserProfileImage"
+        src="//thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202402/19/1609101514056169502/814e6bc9-ebda-4004-a256-0df77fd85f6f.jpg"
+        data-member-id="141585502"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__info__user">
+      <span
+        class="sdp-review__article__list__info__user__name js_reviewUserProfileImage"
+        data-member-id="141585502"
+        >유민주&nbsp;</span
+      >
+
+      <img
+        class="sdp-review__article__list__info__top-badge js_reviewArticleTopReviewBtn"
+        src="//img1a.coupangcdn.com/image/productreview/web/pdp/badges/REAL_NAME_REVIEWER_v1.png"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info">
+      <div class="sdp-review__article__list__info__product-info__star-gray">
+        <div
+          class="sdp-review__article__list__info__product-info__star-orange js_reviewArticleRatingValue"
+          data-rating="5"
+        ></div>
+      </div>
+      <div class="sdp-review__article__list__info__product-info__reg-date">
+        2024.08.18
+      </div>
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__seller_name">
+      판매자: 쿠팡(주)
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__name">
+      하늘보리 에코, 1.5L, 12개
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__attachment js_reviewArticleListGalleryContainer"
+  >
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/608e43cb-4485-4a59-a79c-03b852385941.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/608e43cb-4485-4a59-a79c-03b852385941.jpg"
+        data-origin-path="https://thumbnail9.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/18/1609101514056169502/608e43cb-4485-4a59-a79c-03b852385941.jpg"
+        data-num="0"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/5cb43f10-af2b-4495-8a35-9f13eaf85bd6.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/5cb43f10-af2b-4495-8a35-9f13eaf85bd6.jpg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/18/1609101514056169502/5cb43f10-af2b-4495-8a35-9f13eaf85bd6.jpg"
+        data-num="1"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/62abe1be-1b14-4de1-a37c-91e75363b24f.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/62abe1be-1b14-4de1-a37c-91e75363b24f.jpg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/18/1609101514056169502/62abe1be-1b14-4de1-a37c-91e75363b24f.jpg"
+        data-num="2"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/060d485d-fcd7-4039-9795-c367a105c445.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/060d485d-fcd7-4039-9795-c367a105c445.jpg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/18/1609101514056169502/060d485d-fcd7-4039-9795-c367a105c445.jpg"
+        data-num="3"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/abb61ca4-9231-4f4c-aa33-71250ae7b1e5.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/abb61ca4-9231-4f4c-aa33-71250ae7b1e5.jpg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/18/1609101514056169502/abb61ca4-9231-4f4c-aa33-71250ae7b1e5.jpg"
+        data-num="4"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/3ca01bc8-f685-4e32-a5cf-acdcf3b27a60.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/3ca01bc8-f685-4e32-a5cf-acdcf3b27a60.jpg"
+        data-origin-path="https://thumbnail9.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/18/1609101514056169502/3ca01bc8-f685-4e32-a5cf-acdcf3b27a60.jpg"
+        data-num="5"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/fdb4c0be-d40a-41d0-b33f-93b9049b2c1e.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/18/1609101514056169502/fdb4c0be-d40a-41d0-b33f-93b9049b2c1e.jpg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/18/1609101514056169502/fdb4c0be-d40a-41d0-b33f-93b9049b2c1e.jpg"
+        data-num="6"
+      />
+    </div>
+  </div>
+
+  <div class="sdp-review__article__list__headline">
+    튜닝의 끝은 순정! 차게해서 먹으면 더 맛있는 하늘보리
+  </div>
+
+  <div
+    class="sdp-review__article__list__review js_reviewArticleContentContainer"
+  >
+    <div
+      class="sdp-review__article__list__review__content js_reviewArticleContent"
+    >
+      바쁜 현대인의 시간을 아껴 현명한 소비를 하시기 바라는 마음에서 꼭 필요한
+      정보만을 제공합니다. <br />
+      <br />
+      상품명: 하늘보리 에코, 1.5L, 12개<br />
+      주문일자: 2024.08.12.<br />
+      받은날짜: 2024.08.13.<br />
+      유통기한: 2025.07.08.<br />
+      <br />
+      **구매동기**<br />
+      역대급으로 긴 열대야가 연일 이어지는 가운데<br />
+      날이 너무 무더워서일까요? <br />
+      음식을 잘못 먹었는지 장염에 걸려 며칠간 고생했습니다ㅠ.ㅠ<br />
+      탈수예방차 포*리스웨트 같은 이온음료를 마시는데 <br />
+      너무 달고 고소하고 칼로리없는 보리차가 너무 마시고 싶은거에요? <br />
+      가끔 골드박스에 떠있는 걸 보았는데, <br />
+      이번에는 필요해서 그냥 얼른 주문했어요~ <br />
+      <br />
+      **맛과 향**<br />
+      대한민국에서 하늘보리 맛 모르는 사람은 간첩아닙니까ㅎㅎ <br />
+      튜닝의 끝은 순정이라고, <br />
+      여러 브랜드에서 나오는 보리차들 많이 마셔보았는데..<br />
+      돌고돌아 결국 하늘보리를 찾게되더라고요~ <br />
+      맛도 너무 인위적이지 않고<br />
+      딱 순하고 구수하고 맛있는 보리맛의 하늘보리.<br />
+      <br />
+      배송오자마자 냉장고에 넣어두고, <br />
+      싹 씻은 후에 적당히 시원할 때 마셨는데 역시... <br />
+      보리차 맛 아는 대한민국 사람으로 태어난 게 <br />
+      럭키비키입니다ㅎㅎ<br />
+      <br />
+      **총평 및 재구매의사**<br />
+      장염 때문에 사마시게 되었는데, <br />
+      오랜만에 먹으니 또 너무 맛있더라고요. <br />
+      더울수록 오히려 인위적인 단맛의 가공음료보다는 <br />
+      이렇게 구수하고 깔끔한 맛의 음료를 더 찾게되는 것 같아요! <br />
+      <br />
+      몰랐는데 보리 효능도 좋더라고요~ <br />
+      변비에 효과가 있는 식이섬유가 쌀보다 10배나 함유되어 있어<br />
+      장 운동을 유연하게 해주고, 소화에도 도움을 주고요~<br />
+      피로, 식욕감퇴, 두통, 빈혈, 피부염 예방 효과와 더불어<br />
+      심장질환 예방 및 지방 축적을 억제해 비만도 예방한대요! <br />
+      <br />
+      단순히 열만 내려주는 줄 알았는데, 이렇게 건강에도 도움이 된다니,<br />
+      <br />
+      여러분도 시원한 보리차 한 잔씩 어떠세요? <br />
+      <br />
+      ------------------------------------------------<br />
+      내돈내산 구매 후 직접 마셔보고 추천하고자 올린 후기입니다! <br />
+      <br />
+      후기보시고 구매결정하시는 분들께 도움이 되고자 쓰다보니 글이 길어졌네요~
+      <br />
+      긴 리뷰글 읽어주셔서 감사하구요!<br />
+      도움이 되셨다면 [도움이 돼요] 한번만 눌러주세요!! 리뷰작성에 큰 힘이
+      됩니다 :) <br />
+      <br />
+      늘 건강하시고, 좋은 하루되세요~<br />
+      ------------------------------------------------
+    </div>
+  </div>
+
+  <div class="sdp-review__article__list__survey">
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question"
+        >맛 만족도</span
+      >
+      <span class="sdp-review__article__list__survey__row__answer"
+        >맛있어요</span
+      >
+    </div>
+
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question">맛</span>
+      <span class="sdp-review__article__list__survey__row__answer"
+        >고소한 편이에요</span
+      >
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__help js_reviewArticleHelpfulContainer"
+    data-review-id="625391783"
+    data-count="8"
+  >
+    <div class="sdp-review__article__list__help__count">
+      <strong><span class="js_reviewArticleHelpfulCount">8</span></strong
+      >명에게 도움 됨
+    </div>
+    <div class="hidden js__help__count__tip">이 상품평이 도움 되었나요?</div>
+
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleHelpBtn"
+    >
+      도움이 돼요
+    </button>
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleNoHelpBtn"
+    >
+      도움 안 돼요
+    </button>
+
+    <button
+      class="sdp-review__article__list__help__report-btn js_reviewArticleReviewReportBtn"
+      data-review-id="625391783"
+    >
+      신고하기
+    </button>
+
+    <div class="sdp-review__clear"></div>
+  </div>
+</article>
+
+<article class="sdp-review__article__list js_reviewArticleReviewList">
+  <div class="sdp-review__article__list__info">
+    <div class="sdp-review__article__list__info__profile">
+      <img
+        class="js_reviewArticleCrop js_reviewUserProfileImage"
+        src="//img1a.coupangcdn.com/image/productreview/web/pdp/profile/img-profile-empty.png"
+        data-member-id="147424262"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__info__user">
+      <span
+        class="sdp-review__article__list__info__user__name js_reviewUserProfileImage"
+        data-member-id="147424262"
+        >채니유니&nbsp;</span
+      >
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info">
+      <div class="sdp-review__article__list__info__product-info__star-gray">
+        <div
+          class="sdp-review__article__list__info__product-info__star-orange js_reviewArticleRatingValue"
+          data-rating="5"
+        ></div>
+      </div>
+      <div class="sdp-review__article__list__info__product-info__reg-date">
+        2024.08.12
+      </div>
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__seller_name">
+      판매자: 쿠팡(주)
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__name">
+      하늘보리 에코, 1.5L, 12개
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__attachment js_reviewArticleListGalleryContainer"
+  >
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/a0bd46af-672c-42c9-a9ba-cc6c31b0e6d4.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/a0bd46af-672c-42c9-a9ba-cc6c31b0e6d4.jpg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/a0bd46af-672c-42c9-a9ba-cc6c31b0e6d4.jpg"
+        data-num="0"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/4823a4e3-66c2-4c78-830c-ff24b12f72ac.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/4823a4e3-66c2-4c78-830c-ff24b12f72ac.jpg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/4823a4e3-66c2-4c78-830c-ff24b12f72ac.jpg"
+        data-num="1"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/47129fbe-769b-4fc0-8127-cb671070cf01.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/47129fbe-769b-4fc0-8127-cb671070cf01.jpg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/47129fbe-769b-4fc0-8127-cb671070cf01.jpg"
+        data-num="2"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/d0e2eceb-7302-4538-86e8-8673b16fd308.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/d0e2eceb-7302-4538-86e8-8673b16fd308.jpg"
+        data-origin-path="https://thumbnail9.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/d0e2eceb-7302-4538-86e8-8673b16fd308.jpg"
+        data-num="3"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/82d28796-13a7-45b0-839b-acb05c93d66c.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/82d28796-13a7-45b0-839b-acb05c93d66c.jpg"
+        data-origin-path="https://thumbnail9.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/82d28796-13a7-45b0-839b-acb05c93d66c.jpg"
+        data-num="4"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/0d1f6674-9110-4190-8944-2c301e0bd5ea.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/0d1f6674-9110-4190-8944-2c301e0bd5ea.jpg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/0d1f6674-9110-4190-8944-2c301e0bd5ea.jpg"
+        data-num="5"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/9326b17a-39d1-4d80-8d80-0d2646bd52fc.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail9.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/9326b17a-39d1-4d80-8d80-0d2646bd52fc.jpg"
+        data-origin-path="https://thumbnail9.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/9326b17a-39d1-4d80-8d80-0d2646bd52fc.jpg"
+        data-num="6"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/1ea89213-597b-4897-b127-fde7258bc24e.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/1ea89213-597b-4897-b127-fde7258bc24e.jpg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/1ea89213-597b-4897-b127-fde7258bc24e.jpg"
+        data-num="7"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/788c4a97-0bb1-49c4-b7c5-51c782c3c8d9.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/788c4a97-0bb1-49c4-b7c5-51c782c3c8d9.jpg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/788c4a97-0bb1-49c4-b7c5-51c782c3c8d9.jpg"
+        data-num="8"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/65a51993-3b07-4d10-a3eb-e0fe3dda1843.jpg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/12/8862125400631175519/65a51993-3b07-4d10-a3eb-e0fe3dda1843.jpg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/12/8862125400631175519/65a51993-3b07-4d10-a3eb-e0fe3dda1843.jpg"
+        data-num="9"
+      />
+    </div>
+  </div>
+
+  <div class="sdp-review__article__list__headline">
+    “하늘보리 에코, 건강한 한 모금!”
+  </div>
+
+  <div
+    class="sdp-review__article__list__review js_reviewArticleContentContainer"
+  >
+    <div
+      class="sdp-review__article__list__review__content js_reviewArticleContent"
+    >
+      최근 건강에 대한 관심이 높아지면서, 물 대신 마실 수 있는 건강 음료를 찾던
+      중 하늘보리 에코를 발견하게 되었습니다. 12개 묶음으로 구매했는데, 가격도
+      합리적이어서 너무 좋았습니다.<br />
+      <br />
+      일반적인 보리 음료와는 달리, 이 제품은 부드럽고 깔끔한 맛이 특징입니다.
+      보리의 고소한 풍미가 느껴지면서도, 지나치게 부담스럽지 않아 여러 번 마셔도
+      질리지 않았습니다. 특히, 더운 여름철에 시원하게 마시면 정말 상쾌한 기분이
+      들었습니다. 차갑게 해서 마시는 것을 추천합니다!<br />
+      <br />
+      이 음료는 건강에도 많은 이점을 제공합니다. 보리에는 식이섬유가 풍부하게
+      들어 있어 소화에 도움을 주고, 장 건강에도 긍정적인 영향을 미친다고 알고
+      있습니다. 그래서 매일 한 병씩 마시면서 몸의 컨디션이 좋아지는 느낌을
+      받았습니다. 특히, 식사 후에 마시면 소화가 잘 되는 것 같아 더욱
+      만족스럽습니다.<br />
+      <br />
+      하늘보리 에코의 포장도 매우 실용적이었습니다. 1.5L 용량은 혼자서
+      마시기에도 적당하고, 가족과 함께 나누어 마시기에도 좋은 크기입니다. 특히,
+      재활용이 가능한 패키지라는 점에서 환경을 생각하는 소비자로서 더욱 마음에
+      들었습니다. 요즘은 환경 문제에 대한 관심이 높아지고 있는데, 이런 제품을
+      사용함으로써 조금이나마 도움이 되고 있다는 생각이 듭니다.<br />
+      <br />
+      또한, 사무실이나 야외 나들이할 때 함께 가지고 다니기에도 편리했습니다.
+      가벼운 무게와 적당한 크기로, 가방에 넣고 다니기 좋았고, 언제 어디서나
+      간편하게 마실 수 있었습니다. 친구들과의 소풍이나 운동할 때도 하늘보리
+      에코를 가져가면 누구나 좋아하더라고요.<br />
+      <br />
+      하늘보리 에코는 가격 대비 품질이 뛰어난 제품이라고 생각합니다. 비슷한
+      제품들에 비해 저렴하면서도 맛과 건강 효과는 더 뛰어난 것 같아요. 앞으로도
+      꾸준히 구매해서 마실 계획입니다. 하늘보리 에코와 함께라면 매일매일
+      건강하게 지낼 수 있을 것 같습니다.^^<br />
+      <br />
+      <br />
+      “고소한 맛과 건강을 함께!”<br />
+      “자연의 힘, 하늘보리 에코로 느껴보세요!”<br />
+      “매일의 건강, 하늘보리와 함께!”<br />
+      “환경을 생각하는 맛있는 선택!”
+    </div>
+  </div>
+
+  <div class="sdp-review__article__list__survey">
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question"
+        >맛 만족도</span
+      >
+      <span class="sdp-review__article__list__survey__row__answer"
+        >맛있어요</span
+      >
+    </div>
+
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question">맛</span>
+      <span class="sdp-review__article__list__survey__row__answer"
+        >고소한 편이에요</span
+      >
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__help js_reviewArticleHelpfulContainer"
+    data-review-id="623654314"
+    data-count="4"
+  >
+    <div class="sdp-review__article__list__help__count">
+      <strong><span class="js_reviewArticleHelpfulCount">4</span></strong
+      >명에게 도움 됨
+    </div>
+    <div class="hidden js__help__count__tip">이 상품평이 도움 되었나요?</div>
+
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleHelpBtn"
+    >
+      도움이 돼요
+    </button>
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleNoHelpBtn"
+    >
+      도움 안 돼요
+    </button>
+
+    <button
+      class="sdp-review__article__list__help__report-btn js_reviewArticleReviewReportBtn"
+      data-review-id="623654314"
+    >
+      신고하기
+    </button>
+
+    <div class="sdp-review__clear"></div>
+  </div>
+</article>
+
+<article class="sdp-review__article__list js_reviewArticleReviewList">
+  <div class="sdp-review__article__list__info">
+    <div class="sdp-review__article__list__info__profile">
+      <img
+        class="js_reviewArticleCrop js_reviewUserProfileImage"
+        src="//img1a.coupangcdn.com/image/productreview/web/pdp/profile/img-profile-empty.png"
+        data-member-id="17672491"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__info__user">
+      <span
+        class="sdp-review__article__list__info__user__name js_reviewUserProfileImage"
+        data-member-id="17672491"
+        >김*연&nbsp;</span
+      >
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info">
+      <div class="sdp-review__article__list__info__product-info__star-gray">
+        <div
+          class="sdp-review__article__list__info__product-info__star-orange js_reviewArticleRatingValue"
+          data-rating="5"
+        ></div>
+      </div>
+      <div class="sdp-review__article__list__info__product-info__reg-date">
+        2024.08.09
+      </div>
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__seller_name">
+      판매자: 쿠팡(주)
+    </div>
+
+    <div class="sdp-review__article__list__info__product-info__name">
+      하늘보리 에코, 1.5L, 12개
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__attachment js_reviewArticleListGalleryContainer"
+  >
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/bc94cdce-4cb8-4f32-862d-def8b03ac0c4.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail6.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/bc94cdce-4cb8-4f32-862d-def8b03ac0c4.jpeg"
+        data-origin-path="https://thumbnail6.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/bc94cdce-4cb8-4f32-862d-def8b03ac0c4.jpeg"
+        data-num="0"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/34968825-686c-49bf-a2dd-f4fbfeff4979.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/34968825-686c-49bf-a2dd-f4fbfeff4979.jpeg"
+        data-origin-path="https://thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/34968825-686c-49bf-a2dd-f4fbfeff4979.jpeg"
+        data-num="1"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/a9166ed1-64ea-4e72-b086-8144b9c2c89a.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/a9166ed1-64ea-4e72-b086-8144b9c2c89a.jpeg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/a9166ed1-64ea-4e72-b086-8144b9c2c89a.jpeg"
+        data-num="2"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/7e6c592e-f2b0-4d19-9762-ed1aa933f96c.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/7e6c592e-f2b0-4d19-9762-ed1aa933f96c.jpeg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/7e6c592e-f2b0-4d19-9762-ed1aa933f96c.jpeg"
+        data-num="3"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/2601d2ba-3d4b-4297-8c2f-405531d4c379.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/2601d2ba-3d4b-4297-8c2f-405531d4c379.jpeg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/2601d2ba-3d4b-4297-8c2f-405531d4c379.jpeg"
+        data-num="4"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/9e160b84-96c0-45e0-89ae-0a535b491ed9.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/9e160b84-96c0-45e0-89ae-0a535b491ed9.jpeg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/9e160b84-96c0-45e0-89ae-0a535b491ed9.jpeg"
+        data-num="5"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/e194b386-463b-4f2c-9b8f-bca281aadb9c.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/e194b386-463b-4f2c-9b8f-bca281aadb9c.jpeg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/e194b386-463b-4f2c-9b8f-bca281aadb9c.jpeg"
+        data-num="6"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/d5d3ec22-ee2b-4ff7-a34a-e260b26f4bbf.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/d5d3ec22-ee2b-4ff7-a34a-e260b26f4bbf.jpeg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/d5d3ec22-ee2b-4ff7-a34a-e260b26f4bbf.jpeg"
+        data-num="7"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/daf44fc1-6ab1-4cb4-ac6e-ac903f725deb.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail10.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/daf44fc1-6ab1-4cb4-ac6e-ac903f725deb.jpeg"
+        data-origin-path="https://thumbnail10.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/daf44fc1-6ab1-4cb4-ac6e-ac903f725deb.jpeg"
+        data-num="8"
+      />
+    </div>
+
+    <div class="sdp-review__article__list__attachment__list">
+      <img
+        class="sdp-review__article__list__attachment__img js_reviewArticleListImage js_reviewArticleCrop"
+        src="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/36f29c6d-5e2a-4fe3-aecb-b9e26061e47b.jpeg"
+        data-video-size="0"
+        data-thumbnail-path="https://thumbnail8.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202408/9/2405285013062413745/36f29c6d-5e2a-4fe3-aecb-b9e26061e47b.jpeg"
+        data-origin-path="https://thumbnail8.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202408/9/2405285013062413745/36f29c6d-5e2a-4fe3-aecb-b9e26061e47b.jpeg"
+        data-num="9"
+      />
+    </div>
+  </div>
+
+  <div class="sdp-review__article__list__headline">
+    보리차는 역시 하늘보리 !!!
+  </div>
+
+  <div
+    class="sdp-review__article__list__review js_reviewArticleContentContainer"
+  >
+    <div
+      class="sdp-review__article__list__review__content js_reviewArticleContent"
+    >
+      하늘보리 아직도 쿠팡에서 안사시는분 계십니까<br />
+      하늘보리는 무조건 쿠팡에서 사는걸 강력 추천합니다.<br />
+      <br />
+      <br />
+      오프라인에서 사는 것보다 가격이 저렴하고<br />
+      집 문앞까지 배송을 다해주시기 때문에 매우 편합니다 ! <br />
+      <br />
+      <br />
+      그리고 다른 보리차들과 고민중이시라면 고민하지 마세요<br />
+      그냥 하늘보리를 시키셔야 합니다.<br />
+      <br />
+      <br />
+      하늘보리 고인물이 되어가는 N번째 재재재재재재재구매자 입니다.<br />
+      저희 집에 있는 빅베이비 한명이 보리차러버인데<br />
+      하늘보리만 먹습니다. 돈 몇푼 아껴보겠다고 <br />
+      다른 보리차 앵간한거 다 사줘봤는데 <br />
+      전부 퇴짜맞고 하늘보리 계속 사주고 있습니다.<br />
+      <br />
+      <br />
+      보리는 냉성곡물이라서 열을 떨어뜨리고 <br />
+      몸속 갈증까지 시원하게 해소가 된다고 합니다.<br />
+      요즘 날이 더워서인지 저희집 빅베이비께서 <br />
+      냉장고에 하늘보리 2개씩 <br />
+      넣어두고 열심히 드시더라구요 <br />
+      <br />
+      <br />
+      생수는 절대 안드시고 하늘보리만 드십니다.<br />
+      보리차가 물을 대신 할 수 있는 차라고 해서 <br />
+      이제는 군말없이 시켜주고 있습니다.<br />
+      <br />
+      <br />
+      하늘보리에 들어가는 보리는 백프로 국산이니 <br />
+      아이들 먹이시려는 분들도 안심하고 구매하셔도 됩니다.<br />
+      <br />
+      <br />
+      하늘보리는 다른 보리차에 비해 맛이 고소하고 <br />
+      더 맛있습니다. 보리 뿐 아니라 볶은 옥수수, 볶은 현미,<br />
+      볶은 치커리 등이 들어가서 더 맛이 풍부한게 아닌가 추측하고 있습니다.<br />
+      <br />
+      <br />
+      저희집엔 항상 하늘보리 1박스 이상 쟁여 두고 있습니다.<br />
+      왜냐하면 생수처럼 늘 마시는 분이 계시는 것 뿐 아니라<br />
+      골드박스에 떳을때 구매를 하면 조금더 저렴하기 때문에<br />
+      골드박스에 하늘보리가 보인다? 하면 바로 2박스씩 <br />
+      사두기 때문입니다. 저희집처럼 하늘보리를 매일 드신다면 <br />
+      무조건 골드박스 세일 떳을때 쟁여 놓으시길 추천드립니다.<br />
+      <br />
+      <br />
+      하늘보리 에코 제품이 나오기 시작한 뒤로는 <br />
+      항상 에코 제품으로 구매하고 있습니다.<br />
+      <br />
+      <br />
+      에코제품이 분리수거 하기에도 편하고 <br />
+      기존 라벨 제품 보다 플라스틱 사용량이 적다는 <br />
+      친환경적인 이유도 있지만... 어느순간부터<br />
+      골드박스에 에코제품만 뜨는것 같더라구요(확실하지 않습니다)<br />
+      그렇다보니 자연스럽게 어찌저찌 환경보호에 동참중입니다. <br />
+      착한 소비를 하는 것 같아서 마음이 훈훈해지네요<br />
+      <br />
+      <br />
+      여름이라 실온에 오래 두면 금방 상해버리니 <br />
+      남은 하늘보리는 냉장 보관 하시길 추천드리구요~ <br />
+      다음 골드박스 세일에 떴을때 재구매후 리뷰쓰러오겠습니다 !
+    </div>
+  </div>
+
+  <div class="sdp-review__article__list__survey">
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question"
+        >맛 만족도</span
+      >
+      <span class="sdp-review__article__list__survey__row__answer"
+        >맛있어요</span
+      >
+    </div>
+
+    <div class="sdp-review__article__list__survey__row">
+      <span class="sdp-review__article__list__survey__row__question">맛</span>
+      <span class="sdp-review__article__list__survey__row__answer"
+        >고소한 편이에요</span
+      >
+    </div>
+  </div>
+
+  <div
+    class="sdp-review__article__list__help js_reviewArticleHelpfulContainer"
+    data-review-id="623212385"
+    data-count="6"
+  >
+    <div class="sdp-review__article__list__help__count">
+      <strong><span class="js_reviewArticleHelpfulCount">6</span></strong
+      >명에게 도움 됨
+    </div>
+    <div class="hidden js__help__count__tip">이 상품평이 도움 되었나요?</div>
+
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleHelpBtn"
+    >
+      도움이 돼요
+    </button>
+    <button
+      class="sdp-review__article__list__help__btn js_reviewArticleNoHelpBtn"
+    >
+      도움 안 돼요
+    </button>
+
+    <button
+      class="sdp-review__article__list__help__report-btn js_reviewArticleReviewReportBtn"
+      data-review-id="623212385"
+    >
+      신고하기
+    </button>
+
+    <div class="sdp-review__clear"></div>
+  </div>
+</article>
+
+<div
+  class="sdp-review__article__page js_reviewArticlePagingContainer"
+  data-page="1"
+  data-start="1"
+  data-end="10"
+>
+  <button
+    class="sdp-review__article__page__prev js_reviewArticlePagePrevBtn"
+    disabled
+  ></button>
+
+  <button
+    class="sdp-review__article__page__num sdp-review__article__page__num--active js_reviewArticlePageBtn"
+    data-page="1"
+  >
+    1
+  </button>
+
+  <button
+    class="sdp-review__article__page__num js_reviewArticlePageBtn"
+    data-page="2"
+  >
+    2
+  </button>
+
+  <button
+    class="sdp-review__article__page__num js_reviewArticlePageBtn"
+    data-page="3"
+  >
+    3
+  </button>
+
+  <button
+    class="sdp-review__article__page__num js_reviewArticlePageBtn"
+    data-page="4"
+  >
+    4
+  </button>
+
+  <button
+    class="sdp-review__article__page__num js_reviewArticlePageBtn"
+    data-page="5"
+  >
+    5
+  </button>
+
+  <button
+    class="sdp-review__article__page__num js_reviewArticlePageBtn"
+    data-page="6"
+  >
+    6
+  </button>
+
+  <button
+    class="sdp-review__article__page__num js_reviewArticlePageBtn"
+    data-page="7"
+  >
+    7
+  </button>
+
+  <button
+    class="sdp-review__article__page__num js_reviewArticlePageBtn"
+    data-page="8"
+  >
+    8
+  </button>
+
+  <button
+    class="sdp-review__article__page__num js_reviewArticlePageBtn"
+    data-page="9"
+  >
+    9
+  </button>
+
+  <button
+    class="sdp-review__article__page__num js_reviewArticlePageBtn"
+    data-page="10"
+  >
+    10
+  </button>
+
+  <button
+    class="sdp-review__article__page__next sdp-review__article__page__next--active js_reviewArticlePageNextBtn"
+  ></button>
+</div>
+
+<div class="sdp-review__article__no-review">등록된 상품평이 없습니다.</div>
